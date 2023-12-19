@@ -1,0 +1,6 @@
+tensorflow>=2.6.0
+imutils==0.5.3
+numpy>=1.23.5
+opencv-python>=4.6.0
+matplotlib>=3.6.3
+scipy>=1.8.0
